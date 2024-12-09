@@ -1,0 +1,14 @@
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/bin/Debug/net9.0/Tokenizer
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/bin/Debug/net9.0/Tokenizer.deps.json
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/bin/Debug/net9.0/Tokenizer.runtimeconfig.json
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/bin/Debug/net9.0/Tokenizer.dll
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/bin/Debug/net9.0/Tokenizer.pdb
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/obj/Debug/net9.0/Tokenizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/obj/Debug/net9.0/Tokenizer.AssemblyInfoInputs.cache
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/obj/Debug/net9.0/Tokenizer.AssemblyInfo.cs
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/obj/Debug/net9.0/Tokenizer.csproj.CoreCompileInputs.cache
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/obj/Debug/net9.0/Tokenizer.dll
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/obj/Debug/net9.0/refint/Tokenizer.dll
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/obj/Debug/net9.0/Tokenizer.pdb
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/obj/Debug/net9.0/Tokenizer.genruntimeconfig.cache
+/Users/arumugamprak/Documents/Microsoft/Tokenizer/obj/Debug/net9.0/ref/Tokenizer.dll
